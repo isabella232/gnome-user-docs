@@ -2669,7 +2669,7 @@ msgstr "Com esborrar un dispositiu de la llista de dispositius Bluetooth."
 #. (itstool) path: page/title
 #: C/bluetooth-remove-connection.page:45
 msgid "Disconnect a Bluetooth device"
-msgstr "Desconnecta un dispositiu Bluetooth"
+msgstr "Desconnectar un dispositiu Bluetooth"
 
 #. (itstool) path: page/p
 #: C/bluetooth-remove-connection.page:47
@@ -6144,7 +6144,7 @@ msgstr "Gestioneu i organitzeu fitxers amb el gestor de fitxers."
 #. (itstool) path: page/title
 #: C/files-browse.page:40
 msgid "Browse files and folders"
-msgstr "Navega per fitxers i carpetes"
+msgstr "Navegar per fitxers i carpetes"
 
 #. (itstool) path: page/p
 #: C/files-browse.page:50
@@ -13151,7 +13151,7 @@ msgstr "Podeu controlar quins programes poden accedir a la xarxa. Això ajuda a 
 #. (itstool) path: page/title
 #: C/net-firewall-on-off.page:23
 msgid "Enable or block firewall access"
-msgstr "Activeu o bloquegeu l'accés del tallafoc"
+msgstr "Activar o bloquejar l'accés del tallafoc"
 
 #. (itstool) path: page/p
 #: C/net-firewall-on-off.page:35
@@ -13448,7 +13448,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-install-flash.page:23
 msgid "Install the Flash plug-in"
-msgstr "Instal·leu el complement Flash"
+msgstr "Instal·lar el complement Flash"
 
 #. (itstool) path: page/p
 #: C/net-install-flash.page:25
@@ -14404,7 +14404,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-wired-connect.page:29
 msgid "Connect to a wired (Ethernet) network"
-msgstr "Connecteu-vos a una xarxa de cable (Ethernet)"
+msgstr "Connectar a una xarxa de cable (Ethernet)"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:33
@@ -14473,7 +14473,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-wireless-adhoc.page:33
 msgid "Create a wireless hotspot"
-msgstr "Creeu un punt d'accés sense fil"
+msgstr "Crear un punt d'accés sense fil"
 
 #. (itstool) path: page/p
 #: C/net-wireless-adhoc.page:35
@@ -14880,7 +14880,7 @@ msgstr "Connectar-se a una xarxa sense fil que no es mostra a la llista de xarxe
 #. (itstool) path: page/title
 #: C/net-wireless-hidden.page:32
 msgid "Connect to a hidden wireless network"
-msgstr "Connecteu-vos a una xarxa sense fil oculta"
+msgstr "Connectar a una xarxa sense fil oculta"
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:34
@@ -16011,7 +16011,7 @@ msgstr "Consells per reduir el consum d'energia de l'ordinador."
 #. (itstool) path: page/title
 #: C/power-batterylife.page:41
 msgid "Use less power and improve battery life"
-msgstr "Utilitzeu menys energia i milloreu la durada de la bateria"
+msgstr "Utilitzar menys energia i milloreu la durada de la bateria"
 
 #. (itstool) path: page/p
 #: C/power-batterylife.page:43
@@ -16139,7 +16139,7 @@ msgstr "Consells com \"No deixis que la càrrega de la bateria estigui massa bai
 #. (itstool) path: page/title
 #: C/power-batteryoptimal.page:29
 msgid "Get the most out of your laptop battery"
-msgstr "Aprofita al màxim la bateria del portàtil"
+msgstr "Aprofitar al màxim la bateria del portàtil"
 
 #. (itstool) path: page/p
 #: C/power-batteryoptimal.page:31
@@ -17730,7 +17730,7 @@ msgstr "Canvieu el nom o la ubicació d'una impressora a la configuració de la 
 #. (itstool) path: page/title
 #: C/printing-name-location.page:31
 msgid "Change the name or location of a printer"
-msgstr "Canvieu el nom o la ubicació d'una impressora"
+msgstr "Canviar el nom o la ubicació d'una impressora"
 
 #. (itstool) path: page/p
 #: C/printing-name-location.page:33
@@ -17749,7 +17749,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/printing-name-location.page:42
 msgid "Change printer name"
-msgstr "Canvieu el nom de la impressora"
+msgstr "Canviar el nom de la impressora"
 
 #. (itstool) path: section/p
 #: C/printing-name-location.page:44
@@ -17905,12 +17905,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/printing-select.page:19
 msgid "Print only specific pages, or only a range of pages."
-msgstr "Imprimiu només pàgines concretes o només una sèrie de pàgines."
+msgstr "Imprimir només pàgines concretes o només una sèrie de pàgines."
 
 #. (itstool) path: page/title
 #: C/printing-select.page:22
 msgid "Print only certain pages"
-msgstr "Imprimiu només certes pàgines"
+msgstr "Imprimir només certes pàgines"
 
 #. (itstool) path: page/p
 #: C/printing-select.page:24
@@ -17958,7 +17958,7 @@ msgstr "Trieu la impressora que utilitzeu amb més freqüència."
 #. (itstool) path: page/title
 #: C/printing-setup-default-printer.page:38
 msgid "Set the default printer"
-msgstr "Establiu la impressora predeterminada"
+msgstr "Establir la impressora predeterminada"
 
 #. (itstool) path: page/p
 #: C/printing-setup-default-printer.page:40
@@ -19169,7 +19169,7 @@ msgstr "Permeteu que altres persones vegin i interactuïn amb el vostre escripto
 #. (itstool) path: page/title
 #: C/sharing-desktop.page:32
 msgid "Share your desktop"
-msgstr "Compartició de l'escriptori"
+msgstr "Compartir l'escriptori"
 
 #. (itstool) path: page/p
 #: C/sharing-desktop.page:44
@@ -19377,7 +19377,7 @@ msgstr "Compartiu els fitxers multimèdia a la vostra xarxa local usant UPnP."
 #. (itstool) path: page/title
 #: C/sharing-media.page:26
 msgid "Share your music, photos and videos"
-msgstr "Compartiu la vostra música, fotografies i vídeos"
+msgstr "Compartir la vostra música, fotografies i vídeos"
 
 #. (itstool) path: page/p
 #: C/sharing-media.page:38
@@ -19819,7 +19819,7 @@ msgstr "Apreneu com deixar el compte d'usuari, tancar la sessió, canviar d'usua
 #. (itstool) path: page/title
 #: C/shell-exit.page:50
 msgid "Log out, power off or switch users"
-msgstr "Tanca sessió, apaga o canvia d'usuari"
+msgstr "Tancar sessió, apagar o canviar d'usuari"
 
 #. (itstool) path: page/p
 #: C/shell-exit.page:58
@@ -22447,7 +22447,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/tips-specialchars.page:36
 msgid "Enter special characters"
-msgstr "Introduïu caràcters especials"
+msgstr "Introduir caràcters especials"
 
 #. (itstool) path: page/p
 #: C/tips-specialchars.page:38
@@ -22681,7 +22681,7 @@ msgstr "Manipuleu l'escriptori mitjançant gestos a la pantalla tàctil."
 #. (itstool) path: page/title
 #: C/touchscreen-gestures.page:22
 msgid "Use touchscreen gestures to navigate the desktop"
-msgstr "Utilitzeu gestos a la pantalla tàctil per navegar a l'escriptori"
+msgstr "Utilitzar gestos a la pantalla tàctil per navegar a l'escriptori"
 
 #. (itstool) path: page/p
 #: C/touchscreen-gestures.page:24
@@ -23056,7 +23056,7 @@ msgstr "Podeu permetre als usuaris fer canvis al sistema donant-los privilegis a
 #. (itstool) path: page/title
 #: C/user-admin-change.page:30
 msgid "Change who has administrative privileges"
-msgstr "Canvieu qui té privilegis administratius"
+msgstr "Canviar qui té privilegis administratius"
 
 #. (itstool) path: page/p
 #: C/user-admin-change.page:32
@@ -23342,7 +23342,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/user-changepassword.page:35
 msgid "Change your password"
-msgstr "Canvieu la vostra contrasenya"
+msgstr "Canviar la contrasenya"
 
 #. (itstool) path: page/p
 #: C/user-changepassword.page:62
@@ -23417,7 +23417,7 @@ msgstr "Afegiu la foto a les pantalles d'inici de sessió i d'usuari."
 #. (itstool) path: page/title
 #: C/user-changepicture.page:34
 msgid "Change your login screen photo"
-msgstr "Canvieu la vostra foto d'inici de sessió"
+msgstr "Canviar la foto d'inici de sessió"
 
 #. (itstool) path: page/p
 #: C/user-changepicture.page:36
@@ -23521,7 +23521,7 @@ msgstr "Utilitzeu contrasenyes més llargues i més complicades."
 #. (itstool) path: page/title
 #: C/user-goodpassword.page:34
 msgid "Choose a secure password"
-msgstr "Trieu una contrasenya segura"
+msgstr "Triar una contrasenya segura"
 
 #. (itstool) path: note/p
 #: C/user-goodpassword.page:37
@@ -23853,7 +23853,7 @@ msgstr "Canvieu la tauleta Wacom a <gui>Orientació per a esquerrans</gui>."
 #. (itstool) path: page/title
 #: C/wacom-left-handed.page:27
 msgid "Use the tablet left-handed"
-msgstr "Utilitzeu la tauleta per a esquerrans"
+msgstr "Utilitzar la tauleta per a esquerrans"
 
 #. (itstool) path: page/p
 #: C/wacom-left-handed.page:29
@@ -23946,7 +23946,7 @@ msgstr "Assigneu tauleta Wacom a un monitor específic."
 #. (itstool) path: page/title
 #: C/wacom-multi-monitor.page:32
 msgid "Choose a monitor"
-msgstr "Trieu un monitor"
+msgstr "Triar un monitor"
 
 #. (itstool) path: item/p
 #: C/wacom-multi-monitor.page:54
@@ -23996,7 +23996,7 @@ msgstr "Definiu les funcions del botó i la sensació de pressió del llapis Wac
 #. (itstool) path: page/title
 #: C/wacom-stylus.page:26
 msgid "Configure the stylus"
-msgstr "Configureu el llapis"
+msgstr "Configurar el llapis"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:46
