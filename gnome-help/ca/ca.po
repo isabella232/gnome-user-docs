@@ -16011,7 +16011,7 @@ msgstr "Consells per reduir el consum d'energia de l'ordinador."
 #. (itstool) path: page/title
 #: C/power-batterylife.page:41
 msgid "Use less power and improve battery life"
-msgstr "Utilitzar menys energia i milloreu la durada de la bateria"
+msgstr "Utilitzar menys energia i millorar la durada de la bateria"
 
 #. (itstool) path: page/p
 #: C/power-batterylife.page:43
