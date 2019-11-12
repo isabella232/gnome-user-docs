@@ -4908,7 +4908,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/disk-capacity.page:61
 msgid "Check with System Monitor"
-msgstr "Comprovar-ho amb el Monitor del sistema"
+msgstr "Comprovar amb el Monitor del sistema"
 
 #. (itstool) path: section/p
 #: C/disk-capacity.page:63
@@ -5734,7 +5734,7 @@ msgstr "Configureu un monitor addicional."
 #. (itstool) path: page/title
 #: C/display-dual-monitors.page:31
 msgid "Connect another monitor to your computer"
-msgstr "Connectar d'un altre monitor a l'ordinador"
+msgstr "Connectar un altre monitor a l'ordinador"
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:82
@@ -7148,7 +7148,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/files-rename.page:35
 msgid "Change file or folder name."
-msgstr "Canviar del nom del fitxer o la carpeta."
+msgstr "Canviar el nom del fitxer o la carpeta."
 
 #. (itstool) path: page/title
 #: C/files-rename.page:38
@@ -10725,7 +10725,7 @@ msgstr "Inverteix els botons de l'esquerra i dret a la configuració del ratolí
 #. (itstool) path: page/title
 #: C/mouse-lefthanded.page:37
 msgid "Use your mouse left-handed"
-msgstr "Utilitzar del ratolí amb la mà esquerra"
+msgstr "Utilitzar el ratolí amb la mà esquerra"
 
 #. (itstool) path: page/p
 #: C/mouse-lefthanded.page:39
