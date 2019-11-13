@@ -18881,7 +18881,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/session-fingerprint.page:94
 msgid "Check that your fingerprint works"
-msgstr "Comprobar que la vostra empremta funciona"
+msgstr "Comprovar que la vostra empremta funciona"
 
 #. (itstool) path: section/p
 #: C/session-fingerprint.page:96
