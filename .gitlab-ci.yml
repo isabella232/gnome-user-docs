@@ -7,3 +7,8 @@ build-fedora:
     - ./autogen.sh ITSTOOL="/usr/bin/itstool --strict"
     - make
     - make check
+
+codespell:
+  image: registry.gitlab.gnome.org/gnome/gnome-user-docs:latest
+  script:
+    - codespell -S "*.png,*.po,.git,*.jpg" -f
