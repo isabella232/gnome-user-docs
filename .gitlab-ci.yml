@@ -11,4 +11,4 @@ build-fedora:
 codespell:
   image: registry.gitlab.gnome.org/gnome/gnome-user-docs:latest
   script:
-    - codespell -S "*.png,*.po,.git,*.jpg" -f
+    - codespell -S "*.png,*.po,.git,*.jpg" -f --skip="*.po,NEWS,gnome-help/Makefile.am"
